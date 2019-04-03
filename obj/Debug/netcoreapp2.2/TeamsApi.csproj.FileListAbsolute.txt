@@ -1,0 +1,14 @@
+/Users/jackcrish/Documents/8. Resume/TeamsApi/bin/Debug/netcoreapp2.2/TeamsApi.deps.json
+/Users/jackcrish/Documents/8. Resume/TeamsApi/bin/Debug/netcoreapp2.2/TeamsApi.runtimeconfig.json
+/Users/jackcrish/Documents/8. Resume/TeamsApi/bin/Debug/netcoreapp2.2/TeamsApi.runtimeconfig.dev.json
+/Users/jackcrish/Documents/8. Resume/TeamsApi/bin/Debug/netcoreapp2.2/TeamsApi.dll
+/Users/jackcrish/Documents/8. Resume/TeamsApi/bin/Debug/netcoreapp2.2/TeamsApi.pdb
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.csprojAssemblyReference.cache
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.csproj.CoreCompileInputs.cache
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.RazorAssemblyInfo.cache
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.RazorAssemblyInfo.cs
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.AssemblyInfoInputs.cache
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.AssemblyInfo.cs
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.RazorTargetAssemblyInfo.cache
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.dll
+/Users/jackcrish/Documents/8. Resume/TeamsApi/obj/Debug/netcoreapp2.2/TeamsApi.pdb
