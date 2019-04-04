@@ -30,12 +30,14 @@ namespace TeamsApi
         public void ConfigureServices(IServiceCollection services)
         {
 
+            //I DOUBT THIS IS RIGHT!     
             services.AddDbContext<PlayersContext>(opt =>
             opt.UseInMemoryDatabase("PlayersList")
             );
         
+        
             services.AddDbContext<TeamsContext>(opt =>
-            opt.UseInMemoryDatabase("TeamList")
+            opt.UseInMemoryDatabase("TeamsList")
             );
 
         services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);

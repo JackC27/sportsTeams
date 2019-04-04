@@ -6,7 +6,7 @@ namespace TeamsApi.Models
   {
     public TeamsContext(DbContextOptions<TeamsContext> options): base(options){}
 
-    public DbSet<TeamsContext> Team { get; set; }
+    public DbSet<Team> Teams { get; set; }
 
   }
 }

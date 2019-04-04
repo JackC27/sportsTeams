@@ -1,8 +1,12 @@
 using System;
 using System.Collections.Generic;
+
+using Microsoft.EntityFrameworkCore;
+
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+
 using PlayersApi.Models;
 
 namespace PlayersApi.Controllers
@@ -10,13 +14,13 @@ namespace PlayersApi.Controllers
   //is this a dynamic route? 
   [Route("api/[controller]")]
   [ApiController]
-  public class TeamsController : ControllerBase
+  public class PlayersController : ControllerBase
   {
     // GET api/values
     [HttpGet]
     public ActionResult<IEnumerable<string>> Get()
     {
-      return new string[] { "value1", "value2" };
+      return new string[] { "Player 1", "Player 2" };
     }
 
     // GET api/values/5
